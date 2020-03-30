@@ -1,0 +1,9 @@
+{
+    "Addres": {
+        "City": "Lobnya",
+        "Postcode": "141730",
+        "Street": "Lenina"
+    },
+    "Name": "Artem",
+    "Surname": "Rogov"
+}
